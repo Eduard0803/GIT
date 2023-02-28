@@ -1,6 +1,4 @@
-# Test
-
-repositorio para testes no GIT
+repositorio para testes no GIT      
 
 # Commands GIT
 
